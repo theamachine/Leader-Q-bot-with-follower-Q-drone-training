@@ -3,7 +3,8 @@ Qbot-Qdrone leader/follower model using 4 different unsupervised machine learnin
 1. SVM (binary)
 2. KNN (unsupervised implementation)
 3. PCA
-4. DBSCAN
+4. DBSCAN  
+
 The following dependencies should be installed:
 !pip install pycaret[full]
 !pip install markupsafe==2.0.1
